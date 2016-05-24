@@ -1,0 +1,11 @@
+C:\Users\Oleg\documents\visual studio 2015\Projects\TileGenerator\TileGenerator\bin\Release\TileGenerator.exe.config
+C:\Users\Oleg\documents\visual studio 2015\Projects\TileGenerator\TileGenerator\bin\Release\TileGenerator.exe
+C:\Users\Oleg\documents\visual studio 2015\Projects\TileGenerator\TileGenerator\bin\Release\TileGenerator.pdb
+C:\Users\Oleg\documents\visual studio 2015\Projects\TileGenerator\TileGenerator\bin\Release\ImageMagickSharp.dll
+C:\Users\Oleg\documents\visual studio 2015\Projects\TileGenerator\TileGenerator\bin\Release\MaterialSkin.dll
+C:\Users\Oleg\documents\visual studio 2015\Projects\TileGenerator\TileGenerator\obj\Release\TileGenerator.csprojResolveAssemblyReference.cache
+C:\Users\Oleg\documents\visual studio 2015\Projects\TileGenerator\TileGenerator\obj\Release\TileGenerator.Form1.resources
+C:\Users\Oleg\documents\visual studio 2015\Projects\TileGenerator\TileGenerator\obj\Release\TileGenerator.Properties.Resources.resources
+C:\Users\Oleg\documents\visual studio 2015\Projects\TileGenerator\TileGenerator\obj\Release\TileGenerator.csproj.GenerateResource.Cache
+C:\Users\Oleg\documents\visual studio 2015\Projects\TileGenerator\TileGenerator\obj\Release\TileGenerator.exe
+C:\Users\Oleg\documents\visual studio 2015\Projects\TileGenerator\TileGenerator\obj\Release\TileGenerator.pdb
