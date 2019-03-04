@@ -9,3 +9,16 @@ C:\Users\Oleg\documents\visual studio 2015\Projects\TileGenerator\TileGenerator\
 C:\Users\Oleg\documents\visual studio 2015\Projects\TileGenerator\TileGenerator\obj\Release\TileGenerator.csproj.GenerateResource.Cache
 C:\Users\Oleg\documents\visual studio 2015\Projects\TileGenerator\TileGenerator\obj\Release\TileGenerator.exe
 C:\Users\Oleg\documents\visual studio 2015\Projects\TileGenerator\TileGenerator\obj\Release\TileGenerator.pdb
+C:\Users\User\VisualStudioProjects\tile-generator\TileGenerator\bin\Release\TileGenerator.exe.config
+C:\Users\User\VisualStudioProjects\tile-generator\TileGenerator\bin\Release\TileGenerator.exe
+C:\Users\User\VisualStudioProjects\tile-generator\TileGenerator\bin\Release\TileGenerator.pdb
+C:\Users\User\VisualStudioProjects\tile-generator\TileGenerator\bin\Release\ImageMagickSharp.dll
+C:\Users\User\VisualStudioProjects\tile-generator\TileGenerator\bin\Release\MaterialSkin.dll
+C:\Users\User\VisualStudioProjects\tile-generator\TileGenerator\obj\Release\TileGenerator.csprojAssemblyReference.cache
+C:\Users\User\VisualStudioProjects\tile-generator\TileGenerator\obj\Release\TileGenerator.Form1.resources
+C:\Users\User\VisualStudioProjects\tile-generator\TileGenerator\obj\Release\TileGenerator.Properties.Resources.resources
+C:\Users\User\VisualStudioProjects\tile-generator\TileGenerator\obj\Release\TileGenerator.csproj.GenerateResource.cache
+C:\Users\User\VisualStudioProjects\tile-generator\TileGenerator\obj\Release\TileGenerator.csproj.CoreCompileInputs.cache
+C:\Users\User\VisualStudioProjects\tile-generator\TileGenerator\obj\Release\TileGenerator.csproj.CopyComplete
+C:\Users\User\VisualStudioProjects\tile-generator\TileGenerator\obj\Release\TileGenerator.exe
+C:\Users\User\VisualStudioProjects\tile-generator\TileGenerator\obj\Release\TileGenerator.pdb
